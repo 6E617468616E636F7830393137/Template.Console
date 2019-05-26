@@ -44,10 +44,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BuildInformation\BuildData.cs" />
-    <Compile Include="BuildInformation\IBuildData.cs" />
-    <Compile Include="MessageManager\IMessage.cs" />
-    <Compile Include="MessageManager\Message.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

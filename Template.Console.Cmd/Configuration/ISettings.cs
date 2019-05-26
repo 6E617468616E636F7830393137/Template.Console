@@ -2,6 +2,8 @@
 {
     public interface ISettings
     {
+        string BuildDate { get; }
+        string BuildVersion { get; }
         string ConfigMessage { get; }
     }
 }
